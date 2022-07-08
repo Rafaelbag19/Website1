@@ -1,0 +1,32 @@
+header
+
+hero
+
+areas {
+    administrativos 
+    tributario
+    empresarial 
+    saude 
+    medico
+    agrario
+    
+}
+
+noticias ?
+
+advogados {
+    wey
+    ander
+    chris
+}
+
+contato
+
+footer
+
+
+0a2f48
+
+e29a12
+
+f2f2e9
